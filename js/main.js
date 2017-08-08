@@ -12,7 +12,7 @@ if (!!$.prototype.justifiedGallery) {
 
 
 $(document).ready(function() {
-  alert('hahah')
+
   /**
    * Shows the responsive navigation menu on mobile.
    */
